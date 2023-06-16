@@ -163,3 +163,4 @@ cython_debug/
 *.csv
 *.wav
 *.zip
+*.pt
